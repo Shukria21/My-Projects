@@ -17,3 +17,7 @@ It includes real classwork, problem-solving skills, and consistent practice.
 
 - Python (Jupyter, Colab)
 - Git / GitHub
+
+
+_(More to come!)_
+
